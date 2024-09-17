@@ -1,0 +1,6 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Généralités sur le séminaire}{2}{0}{1}
+\beamer@sectionintoc {2}{Que sont la science et la recherche ?}{7}{0}{2}
+\beamer@sectionintoc {3}{Structure de l'ESR}{13}{0}{3}
+\beamer@sectionintoc {4}{La diversité des systèmes de recherche}{17}{0}{4}
+\beamer@sectionintoc {5}{Et la suite ?}{20}{0}{5}
